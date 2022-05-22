@@ -1,0 +1,1 @@
+A fully-fledged responsive politicians website that contains The Header, Home section, About section, Agendas section, Projects sections, Contact section with a nice curated contact form, a logo that acts as a scroll top and finally the footer.
